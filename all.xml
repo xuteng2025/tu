@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260107081245 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_CN.xml">
+<tv date="20260107082404 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_CN.xml">
   <channel id="10000">
     <display-name lang="CN">4K健身</display-name>
     <icon src="" />
@@ -2112,15 +2112,6 @@
     <display-name lang="CN">黑龙江都市</display-name>
     <icon src="" />
   </channel>
-  <programme channel="10260" start="20260107200000 +0000" stop="20260107210000 +0000">
-    <title lang="CN">热门节目</title>
-  </programme>
-  <programme channel="10193" start="20260107190000 +0000" stop="20260107193000 +0000">
-    <title lang="CN">新闻联播</title>
-  </programme>
-  <programme channel="10402" start="20260107193000 +0000" stop="20260107213000 +0000">
-    <title lang="CN">卫视节目</title>
-  </programme>
   <programme channel="10008" start="20260107000000 +0000" stop="20260107010400 +0000">
     <title lang="CN">山水间的家Ⅲ(6)</title>
   </programme>
@@ -16172,9 +16163,6 @@
   </programme>
   <programme channel="10232" start="20260107133000 +0000" stop="20260107190000 +0000">
     <title lang="CN">猪猪侠</title>
-  </programme>
-  <programme channel="10232" start="20260107190000 +0000" stop="19700102080000 +0000">
-    <title lang="CN">神奇阿呦</title>
   </programme>
   <programme channel="10225" start="20260107010000 +0000" stop="20260107060000 +0000">
     <title lang="CN">恭孝王登基(3)</title>
@@ -46981,9 +46969,6 @@
   <programme channel="10058" start="20260107225500 +0000" stop="20260107230000 +0000">
     <title lang="CN">警声360</title>
   </programme>
-  <programme channel="10058" start="20260107230000 +0000" stop="20260107000000 +0000">
-    <title lang="CN">学人沙龙</title>
-  </programme>
   <programme channel="10059" start="20260107000000 +0000" stop="20260107010000 +0000">
     <title lang="CN">生活健康资讯体育港式速递</title>
   </programme>
@@ -47119,9 +47104,6 @@
   <programme channel="10059" start="20260107230000 +0000" stop="20260107233000 +0000">
     <title lang="CN">艺坊</title>
   </programme>
-  <programme channel="10059" start="20260107233000 +0000" stop="20260107000000 +0000">
-    <title lang="CN">睇得见听得到（英文版）</title>
-  </programme>
   <programme channel="10060" start="20260107000000 +0000" stop="20260107000300 +0000">
     <title lang="CN">生活圈</title>
   </programme>
@@ -47224,20 +47206,11 @@
   <programme channel="10060" start="20260107223200 +0000" stop="20260107231900 +0000">
     <title lang="CN">风与潮27</title>
   </programme>
-  <programme channel="10060" start="20260107231900 +0000" stop="20260107000300 +0000">
-    <title lang="CN">生活圈</title>
-  </programme>
   <programme channel="10061" start="20260107000000 +0000" stop="20260107003000 +0000">
     <title lang="CN">Promos</title>
   </programme>
   <programme channel="10061" start="20260107000000 +0000" stop="20260107235900 +0000">
     <title lang="CN">Promos</title>
-  </programme>
-  <programme channel="10061" start="20260107003000 +0000" stop="20260107000000 +0000">
-    <title lang="CN">中国环球电视网纪录频道</title>
-  </programme>
-  <programme channel="10061" start="20260107235900 +0000" stop="20260107000000 +0000">
-    <title lang="CN">中国环球电视网纪录频道</title>
   </programme>
   <programme channel="10062" start="20260107000000 +0000" stop="20260107010000 +0000">
     <title lang="CN">GlobalBusiness</title>
@@ -47370,9 +47343,6 @@
   </programme>
   <programme channel="10062" start="20260107230000 +0000" stop="20260107233000 +0000">
     <title lang="CN">TheWorldToday</title>
-  </programme>
-  <programme channel="10062" start="20260107233000 +0000" stop="20260107000000 +0000">
-    <title lang="CN">TheVibe</title>
   </programme>
   <programme channel="10054" start="20260107020000 +0000" stop="20260107023000 +0000">
     <title lang="CN">小空间大活用3</title>
@@ -57186,5 +57156,14 @@
   </programme>
   <programme channel="10066" start="20260107230000 +0000" stop="20260107235959 +0000">
     <title lang="CN">精彩节目-暂未提供节目预告信息</title>
+  </programme>
+  <programme channel="10193" start="20260107190000 +0000" stop="20260107193000 +0000">
+    <title lang="CN">新闻联播</title>
+  </programme>
+  <programme channel="10402" start="20260107193000 +0000" stop="20260107213000 +0000">
+    <title lang="CN">卫视节目</title>
+  </programme>
+  <programme channel="10260" start="20260107200000 +0000" stop="20260107210000 +0000">
+    <title lang="CN">热门节目</title>
   </programme>
 </tv>
