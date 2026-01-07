@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260107083920 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_CN.xml">
+<tv date="20260107084138 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_CN.xml">
   <channel id="10000">
     <display-name lang="CN">央视节目</display-name>
     <icon src="" />
@@ -12,13 +12,13 @@
     <display-name lang="CN">电视猫节目</display-name>
     <icon src="" />
   </channel>
+  <programme channel="10001" start="20260107200000 +0800" stop="20260107210000 +0800">
+    <title lang="CN">热门节目</title>
+  </programme>
   <programme channel="10000" start="20260107190000 +0800" stop="20260107193000 +0800">
     <title lang="CN">新闻联播</title>
   </programme>
   <programme channel="10002" start="20260107193000 +0800" stop="20260107213000 +0800">
     <title lang="CN">卫视节目</title>
-  </programme>
-  <programme channel="10001" start="20260107200000 +0800" stop="20260107210000 +0800">
-    <title lang="CN">热门节目</title>
   </programme>
 </tv>
