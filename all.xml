@@ -1,24 +1,521 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260107084138 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_CN.xml">
+<tv date="20260107084226 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_CN.xml">
   <channel id="10000">
-    <display-name lang="CN">央视节目</display-name>
+    <display-name lang="CN">CCTV1</display-name>
     <icon src="" />
   </channel>
   <channel id="10001">
-    <display-name lang="CN">搜视网节目</display-name>
+    <display-name lang="CN">CCTV10</display-name>
     <icon src="" />
   </channel>
   <channel id="10002">
-    <display-name lang="CN">电视猫节目</display-name>
+    <display-name lang="CN">CCTV11</display-name>
     <icon src="" />
   </channel>
-  <programme channel="10001" start="20260107200000 +0800" stop="20260107210000 +0800">
-    <title lang="CN">热门节目</title>
+  <channel id="10003">
+    <display-name lang="CN">CCTV12</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10004">
+    <display-name lang="CN">CCTV13</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10005">
+    <display-name lang="CN">CCTV14</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10006">
+    <display-name lang="CN">CCTV15</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10007">
+    <display-name lang="CN">CCTV16</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10008">
+    <display-name lang="CN">CCTV17</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10009">
+    <display-name lang="CN">CCTV2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10010">
+    <display-name lang="CN">CCTV3</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10011">
+    <display-name lang="CN">CCTV4</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10012">
+    <display-name lang="CN">CCTV5</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10013">
+    <display-name lang="CN">CCTV5+体育赛事</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10014">
+    <display-name lang="CN">CCTV5体育</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10015">
+    <display-name lang="CN">CCTV6</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10016">
+    <display-name lang="CN">CCTV6电影</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10017">
+    <display-name lang="CN">CCTV7</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10018">
+    <display-name lang="CN">CCTV8</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10019">
+    <display-name lang="CN">CCTV9</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10020">
+    <display-name lang="CN">CCTV9纪录</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10021">
+    <display-name lang="CN">CHC动作电影</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10022">
+    <display-name lang="CN">CHC家庭影院</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10023">
+    <display-name lang="CN">CHC高清电影</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10024">
+    <display-name lang="CN">上海东方卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10025">
+    <display-name lang="CN">上海纪实</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10026">
+    <display-name lang="CN">东方卫视东方剧场</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10027">
+    <display-name lang="CN">北京卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10028">
+    <display-name lang="CN">北京纪实</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10029">
+    <display-name lang="CN">吉林卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10030">
+    <display-name lang="CN">四川卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10031">
+    <display-name lang="CN">天津卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10032">
+    <display-name lang="CN">安徽卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10033">
+    <display-name lang="CN">山东卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10034">
+    <display-name lang="CN">广东体育</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10035">
+    <display-name lang="CN">广东卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10036">
+    <display-name lang="CN">江苏体育</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10037">
+    <display-name lang="CN">江苏卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10038">
+    <display-name lang="CN">江苏卫视幸福剧场</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10039">
+    <display-name lang="CN">江西卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10040">
+    <display-name lang="CN">河南卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10041">
+    <display-name lang="CN">浙江卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10042">
+    <display-name lang="CN">浙江卫视中国蓝剧场</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10043">
+    <display-name lang="CN">深圳卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10044">
+    <display-name lang="CN">湖北卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10045">
+    <display-name lang="CN">湖南卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10046">
+    <display-name lang="CN">湖南卫视金鹰独播剧场</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10047">
+    <display-name lang="CN">福建东南卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10048">
+    <display-name lang="CN">辽宁卫视</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10049">
+    <display-name lang="CN">黑龙江卫视</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="10027" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">北京卫视新闻</title>
+  </programme>
+  <programme channel="10027" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10027" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">北京卫视黄金剧场</title>
+  </programme>
+  <programme channel="10024" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">上海东方卫视新闻</title>
+  </programme>
+  <programme channel="10024" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10024" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">上海东方卫视黄金剧场</title>
+  </programme>
+  <programme channel="10037" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">江苏卫视新闻</title>
+  </programme>
+  <programme channel="10037" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10037" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">江苏卫视黄金剧场</title>
+  </programme>
+  <programme channel="10041" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">浙江卫视新闻</title>
+  </programme>
+  <programme channel="10041" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10041" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">浙江卫视黄金剧场</title>
+  </programme>
+  <programme channel="10045" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">湖南卫视新闻</title>
+  </programme>
+  <programme channel="10045" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10045" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">湖南卫视黄金剧场</title>
+  </programme>
+  <programme channel="10032" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">安徽卫视新闻</title>
+  </programme>
+  <programme channel="10032" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10032" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">安徽卫视黄金剧场</title>
+  </programme>
+  <programme channel="10033" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">山东卫视新闻</title>
+  </programme>
+  <programme channel="10033" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10033" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">山东卫视黄金剧场</title>
+  </programme>
+  <programme channel="10035" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">广东卫视新闻</title>
+  </programme>
+  <programme channel="10035" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10035" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">广东卫视黄金剧场</title>
+  </programme>
+  <programme channel="10043" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">深圳卫视新闻</title>
+  </programme>
+  <programme channel="10043" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10043" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">深圳卫视黄金剧场</title>
+  </programme>
+  <programme channel="10030" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">四川卫视新闻</title>
+  </programme>
+  <programme channel="10030" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10030" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">四川卫视黄金剧场</title>
+  </programme>
+  <programme channel="10044" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">湖北卫视新闻</title>
+  </programme>
+  <programme channel="10044" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10044" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">湖北卫视黄金剧场</title>
+  </programme>
+  <programme channel="10040" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">河南卫视新闻</title>
+  </programme>
+  <programme channel="10040" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10040" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">河南卫视黄金剧场</title>
+  </programme>
+  <programme channel="10031" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">天津卫视新闻</title>
+  </programme>
+  <programme channel="10031" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10031" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">天津卫视黄金剧场</title>
+  </programme>
+  <programme channel="10048" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">辽宁卫视新闻</title>
+  </programme>
+  <programme channel="10048" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10048" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">辽宁卫视黄金剧场</title>
+  </programme>
+  <programme channel="10049" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">黑龙江卫视新闻</title>
+  </programme>
+  <programme channel="10049" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10049" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">黑龙江卫视黄金剧场</title>
+  </programme>
+  <programme channel="10029" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">吉林卫视新闻</title>
+  </programme>
+  <programme channel="10029" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10029" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">吉林卫视黄金剧场</title>
+  </programme>
+  <programme channel="10039" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">江西卫视新闻</title>
+  </programme>
+  <programme channel="10039" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10039" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">江西卫视黄金剧场</title>
+  </programme>
+  <programme channel="10047" start="20260107183000 +0800" stop="20260107190000 +0800">
+    <title lang="CN">福建东南卫视新闻</title>
+  </programme>
+  <programme channel="10047" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="10047" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">福建东南卫视黄金剧场</title>
   </programme>
   <programme channel="10000" start="20260107190000 +0800" stop="20260107193000 +0800">
     <title lang="CN">新闻联播</title>
   </programme>
-  <programme channel="10002" start="20260107193000 +0800" stop="20260107213000 +0800">
-    <title lang="CN">卫视节目</title>
+  <programme channel="10000" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10000" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10009" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10009" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10010" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10010" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10011" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10011" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10012" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10012" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10015" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10015" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10017" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">新闻联播</title>
+  </programme>
+  <programme channel="10017" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10017" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10018" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10018" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10019" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10019" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10001" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10001" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10002" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10002" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10003" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10003" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10004" start="20260107190000 +0800" stop="20260107193000 +0800">
+    <title lang="CN">新闻联播</title>
+  </programme>
+  <programme channel="10004" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10004" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10005" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10005" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10006" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10006" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10007" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10007" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10008" start="20260107193000 +0800" stop="20260107193500 +0800">
+    <title lang="CN">天气预报</title>
+  </programme>
+  <programme channel="10008" start="20260107193800 +0800" stop="20260107200000 +0800">
+    <title lang="CN">焦点访谈</title>
+  </programme>
+  <programme channel="10021" start="20260107200000 +0800" stop="20260107220000 +0800">
+    <title lang="CN">精选电影</title>
+  </programme>
+  <programme channel="10022" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">黄金剧场</title>
+  </programme>
+  <programme channel="10023" start="20260107200000 +0800" stop="20260107220000 +0800">
+    <title lang="CN">精选电影</title>
+  </programme>
+  <programme channel="10016" start="20260107200000 +0800" stop="20260107220000 +0800">
+    <title lang="CN">精选电影</title>
+  </programme>
+  <programme channel="10036" start="20260107193000 +0800" stop="20260107213000 +0800">
+    <title lang="CN">体育赛事直播</title>
+  </programme>
+  <programme channel="10034" start="20260107193000 +0800" stop="20260107213000 +0800">
+    <title lang="CN">体育赛事直播</title>
+  </programme>
+  <programme channel="10014" start="20260107193000 +0800" stop="20260107213000 +0800">
+    <title lang="CN">体育赛事直播</title>
+  </programme>
+  <programme channel="10013" start="20260107193000 +0800" stop="20260107213000 +0800">
+    <title lang="CN">体育赛事直播</title>
+  </programme>
+  <programme channel="10028" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">黄金剧场</title>
+  </programme>
+  <programme channel="10025" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">黄金剧场</title>
+  </programme>
+  <programme channel="10020" start="20260107200000 +0800" stop="20260107213000 +0800">
+    <title lang="CN">纪录片</title>
+  </programme>
+  <programme channel="10046" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">黄金剧场</title>
+  </programme>
+  <programme channel="10042" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">黄金剧场</title>
+  </programme>
+  <programme channel="10038" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">黄金剧场</title>
+  </programme>
+  <programme channel="10026" start="20260107193500 +0800" stop="20260107213000 +0800">
+    <title lang="CN">黄金剧场</title>
   </programme>
 </tv>
